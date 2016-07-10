@@ -15,9 +15,19 @@ Do NOT use Array.prototype.indexOf in your solution. What would be the fun in th
 Input:
 
 array:
-[ 11, 12, 13, 14, 15 ]
+[ 11, 12, 13, 14, 15 ],
 target:
 13
 
 Output:
 2
+
+Input:
+
+array:
+[ 11, 12, 13, 14, 15 ],
+target:
+16
+
+Output:
+-1
