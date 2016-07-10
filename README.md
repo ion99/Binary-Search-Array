@@ -9,3 +9,15 @@ Note:
 Your function should return -1 for target values not in the array. 
 
 Do NOT use Array.prototype.indexOf in your solution. What would be the fun in that?
+
+# Examples:
+
+Input:
+
+array:
+[ 11, 12, 13, 14, 15 ]
+target:
+13
+
+Output:
+2
